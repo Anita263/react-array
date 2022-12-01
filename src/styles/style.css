@@ -1,0 +1,23 @@
+
+    body{
+    margin: 0 auto;
+    background-color: rgb(144, 197, 197);
+    font-size: 70px;
+   
+    }            
+    .App{
+    width: 1140 px; 
+    max-width: calc(100% - 80px);     
+    margin: 0 auto;
+
+ }
+    
+ul{
+    color: rgb(6, 31, 53); 
+text-align: center;
+}
+
+li{
+padding-left: 50px;
+color: aliceblue;
+}
