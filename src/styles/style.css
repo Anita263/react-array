@@ -1,0 +1,25 @@
+
+    body{
+    margin: 0 auto;
+    background-color: rgb(144, 197, 197);
+    font-size: 50px;
+   
+    }            
+    .App{
+    width: 1140 px; 
+    max-width: calc(100% - 80px);     
+    margin: 0 auto;
+
+ }
+    
+h1{
+    color: rgb(6, 31, 53); 
+text-align: center;
+}
+
+.Student{
+padding-left: 30px;
+color: aliceblue;
+display: flex;
+
+}
